@@ -10,10 +10,10 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: white;
+    background: whitesmoke;
 }
 .wrapper header{
-    color: pink;
+    color: rgb(242, 17, 55);
     font-size: 21px;
     font-weight: 500;
     padding: 16px 15px;
