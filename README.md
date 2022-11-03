@@ -4,7 +4,7 @@ A responsive UI of My-Weather-App which includes different types of city data an
 
 ### Screenshots
 
-![browser](https://user-images.githubusercontent.com/85687950/172290723-a5da38fe-7923-49fa-b520-2b65b427b07b.PNG)
+![browser](blob:https://web.whatsapp.com/25bcc615-9d00-4061-ba59-45e462c8f8ed)
 
 ## Approach
 
