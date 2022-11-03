@@ -10,13 +10,12 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #04e48e;
-  /* #04e48e; */
+  background: #56a3fc;
 }
 
 ::selection{
   color: #fff;
-  background: #04e48e;
+  background:#56a3fc;
 }
 .wrapper{
   width: 400px;
@@ -28,7 +27,7 @@ body{
   display: flex;
   font-size: 21px;
   font-weight: 500;
-  color: #04e48e;
+  color:#56a3fc;
   padding: 16px 15px;
   align-items: center;
   border-bottom: 1px solid #ccc;
@@ -82,7 +81,7 @@ header i{
   border: 1px solid #ccc;
 }
 .input-part input:is(:focus, :valid){
-  border: 2px solid #04e48e;
+  border: 2px solid #56a3fc;
 }
 .input-part input::placeholder{
   color: #bfbfbf;
@@ -107,7 +106,7 @@ header i{
 .input-part button{
   color: #fff;
   cursor: pointer;
-  background: #04e48e;
+  background: #56a3fc;
   transition: 0.3s ease;
 }
 .input-part button:hover{

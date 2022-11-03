@@ -7,7 +7,7 @@ const wrapper = document.querySelector(".wrapper"),
   wIcon = weatherPart.querySelector("img"),
   arrowBack = wrapper.querySelector("header i");
 
-let api;
+let API;
 
 inputField.addEventListener("keyup", (e) => {
   if (e.key == "Enter" && inputField.value != "") {
@@ -26,13 +26,13 @@ locationBtn.addEventListener("click", () => {
 let apiKey = "0276c44e65216afcb55d21298e3f558e";
 
 function requestApi(city) {
-  api = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`;
+  API = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`;
   fetchData();
 }
 
 function onSuccess(position) {
   const { latitude, longitude } = position.coords;
-  api = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&units=metric&appid=${apiKey}`;
+  API = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&units=metric&appid=${apiKey}`;
   fetchData();
 }
 
@@ -44,7 +44,7 @@ function onError(error) {
 function fetchData() {
   infoTxt.innerText = "Getting weather details...";
   infoTxt.classList.add("pending");
-  fetch(api)
+  fetch(API)
     .then((res) => res.json())
     .then((result) => weatherDetails(result))
     .catch(() => {
