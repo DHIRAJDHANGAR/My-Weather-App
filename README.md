@@ -13,6 +13,8 @@ A responsive UI of My-Weather-App which includes different types of city data an
 
 ### DEMO
 
+[video](assets/images/Video_2022_11_03-4.webm)
+
 ## Feedback
 
 - Any suggestions or feedback to improve it is most welcomed.
