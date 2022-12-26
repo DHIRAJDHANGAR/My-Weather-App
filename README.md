@@ -4,12 +4,18 @@ A responsive UI of My-Weather-App which includes different types of city data an
 
 ### Screenshots
 
-![browser](https://user-images.githubusercontent.com/85687950/172290723-a5da38fe-7923-49fa-b520-2b65b427b07b.PNG)
+### MAIN PAGE
+![PC-Main-Page](https://user-images.githubusercontent.com/85687950/209510572-32ba12bb-fca3-4173-8676-52cd066b9de8.png)
 
-## Approach
+### CHILD PAGE
+![PC-Child-Page](https://user-images.githubusercontent.com/85687950/209510673-b2b6aebc-9db0-4de6-9a3f-4b7c477d4d50.png)
 
-- First I made a layout in draw.io and also write some important attributes to achieve the target. Here is the Screenshot
-  ![header draw io](https://user-images.githubusercontent.com/85687950/172290862-0b4cdc18-3a88-4064-b4a4-badaa9ffee92.PNG)
+### PERMISSION
+![PC-Permission](https://user-images.githubusercontent.com/85687950/209511318-cc476e36-c770-4611-9b53-25e17591a3ba.png)
+
+
+### WRONG CITY NAME
+![Wrong-City-Name](https://user-images.githubusercontent.com/85687950/209511361-89cea9c4-5313-4ac1-9dca-81aa35a79459.png)
 
 ### DEMO
 
