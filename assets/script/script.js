@@ -23,7 +23,11 @@ locationBtn.addEventListener("click", () => {
   }
 });
 
+//this is API key
+
 let apiKey = "0276c44e65216afcb55d21298e3f558e";
+
+//API Calling to know city address
 
 function requestApi(city) {
   API = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`;
