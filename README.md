@@ -29,4 +29,4 @@ https://user-images.githubusercontent.com/85687950/211273703-e2d4d9d9-31ed-4b25-
 - Any suggestions or feedback to improve it is most welcomed.
 - If you have any feedback, please reach out to us at dhadpe05@gmail.com or 8806072584.
 
-# My-Weather-App
+# Weather Info
