@@ -1,6 +1,6 @@
 ## My-Weather-App
 
-A responsive UI of My-Weather-App which includes different types of city data and their descriptions by using only JavaScript HTML and CSS.
+I have shown you how to build a Weather info app in HTML CSS & JavaScript. In this app, you can get the weather details of a particular city by entering the city name. You can also get your current location weather details by clicking on the "Get Device Location" button. You'll get many weather details including temperature in celsius, weather conditions, location, feels like, and humidity.
 
 ### Screenshots
 
