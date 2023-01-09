@@ -21,6 +21,8 @@ I have shown you how to build a Weather info in HTML CSS & JavaScript. In this a
 ![Wrong-City-Name](https://user-images.githubusercontent.com/85687950/209511361-89cea9c4-5313-4ac1-9dca-81aa35a79459.png)
 
 ### DEMO
+![video]
+https://user-images.githubusercontent.com/85687950/211273703-e2d4d9d9-31ed-4b25-85fc-e50f1e15d7e1.mp4
 
 ## Feedback
 
